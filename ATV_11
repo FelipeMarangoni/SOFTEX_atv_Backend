@@ -1,0 +1,41 @@
+>>> Felipe Marangoni <<<
+
+Faça uma função calculadora que os números e as operações serão feitas pelo usuário. 
+O código deve ficar rodando infinitamente até que o usuário escolha a opção de sair. 
+No início, o programa mostrará a seguinte lista de operações:
+
+1: Soma
+2: Subtração
+3: Multiplicação
+4: Divisão
+0: Sair
+
+Digite o número para a operação correspondente e caso o usuário introduza qualquer outro, 
+o sistema deve mostrar a mensagem “Essa opção não existe” e voltar ao menu de opções.
+
+print('as operações permitidas são:')
+print(' 1--->SOMA')
+print(' 2--->SUBTRAÇAO')
+print(' 3--->MULTIPLICAÇÃO')
+print(' 4--->DIVISÃO')
+print(' 0--->SAIR')
+i=1
+def operacao(v1,v2,operador):
+  if operador == 0:
+    return 'sair'
+  elif operador == 1:
+    return v1+v2
+  elif operador == 2:
+    return v1-v2
+  elif operador == 3:
+    return v1*v2
+  elif operador == 4:
+    return v1/v2
+while i==1:
+  nota1=float(input('insira sua primeira nota:'))
+  nota2=float(input('insira sua segunda nota:'))
+  operador=int(input('insira o numero relacionado a operação desejada!'))
+  resultado=operacao(nota1,nota2,operador)
+  if resultado=='sair':
+    i=0
+  print('o resultado é :',resultado)
