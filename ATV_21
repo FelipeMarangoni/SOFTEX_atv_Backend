@@ -1,0 +1,15 @@
+>>> Felipe Marangoni <<<
+
+Classifique dois objetos materiais e dois abstratos. Insira, no mínimo, três métodos e três atributos para cada.
+
+1º material: Relógio
+métodos: 1- informar horas; 2- informar data;  3-cronometragem 
+atributos: marca, cor, modelo
+
+2º material: smartphone
+métodos: 1- ligação, 2- fotografia, 3- conexão com internet
+atributos: marca, modelo, processador
+
+1ºabstrato: google maps
+métodos: 1- localização, 2- informações de transito, 3- informações de rotas
+atributos: desempenho, está conectado a sua conta google
