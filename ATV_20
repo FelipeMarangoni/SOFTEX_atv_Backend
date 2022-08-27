@@ -1,0 +1,38 @@
+<<< Felipe Marangoni >>>
+
+Crie uma árvore para cada lista abaixo, adicione um valor nela e remova outro, mas, em pelo menos uma das árvores, a remoção deve ser de um nó com dois filhos.
+Lista1 = 45,20,30,60,81,97,100,7,8,4
+Lista2 = 15,6,18,3,7,16,20,4
+
+lista 1
+                                               45
+                                          20
+                                             30           60
+                                    7
+                                       8                       81 
+                                4                                  97
+                                                                     100
+           
+      Remoção de um nó com 2 filhos 
+      
+                                               45
+                                          20
+                                             30           60
+                                    8
+                                                                81 
+                                                                   97
+                                                                     100
+lista 2
+
+                                             15
+                                         6        18
+                                      3         16
+                                         7            20
+                                       4  
+                                       
+       Remoção de um nó com 2 filhos 
+                                             15
+                                         6        18
+                                      4         16
+                                                      20
+                                         
