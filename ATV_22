@@ -1,0 +1,22 @@
+<<< Felipe Marangoni >>>
+
+class carro
+
+def __init__(self, tipo, cor, modelo)
+    self.tipo = tipo
+    self.cor = cor
+    self.modelo = modelo
+
+def get_tipo(self):
+    return self.tipo
+
+def get_cor(self):
+    return self.cor
+
+def get_modelo(self):
+    return self.modelo
+
+carro = carro ('BMW', 'X1')
+carro.get_marca()
+carro.get_cor()
+carro.get_modelo()
