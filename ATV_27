@@ -1,0 +1,14 @@
+>>> Felipe Marngoni <<<
+Metodo Factory 
+
+Definir uma interface para criar objetos, mas deixar que as subclasses decidem que classe instanciar. 
+O Factory Method, também conhecido como construtor virtual, possibilita adiar a criação do objeto a subclasses .
+
+Esse padrão é comumente utilizado pelos projetistas de software quando existe a necessidade de encapsular a criação de uma
+classe se isolando do conhecimento da classe concreta da aplicação cliente através de uma interface. Essa necessidade é 
+comumente desejada por aqueles que trabalham no desenvolvimento de frameworks, que utilizam classes abstratas para definir e 
+manter relacionamentos entre os objetos. Dessa forma os clientes implementam as funcionalidades esperadas pelo framework adicionando a 
+lógica de negócio específica da aplicação, sem que o framework tenha o conhecimento de como e qual a lógica implementada pela aplicação para complementá-lo.
+
+Um exemplo de utilização do padrão pode ser na construção de aplicações que tenha que dar 
+suporte a diferentes implementações de persistência com o mínimo de retrabalho.
