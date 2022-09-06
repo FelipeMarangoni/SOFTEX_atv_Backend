@@ -1,0 +1,199 @@
+Especione o código de uma página qualquer e identifique o uso de java script 
+Site Softex
+
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Carregando...</title>
+  <base href="/">
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="theme-color" content="#4e8ef7"/>
+  <link rel="icon" id="instance-favicon" type="image/x-icon"/>
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Symbols+Outlined">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#1976d2">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <style id="zoom-css-anchor" type="text/css"></style>
+<link rel="stylesheet" href="styles.bd6c8fbfb2d19f251bbb.css"></head>
+
+<body>
+  <!--[if lt IE 10]>
+  <p>
+    You are using an <strong>outdated</strong> browser.
+    Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
+  </p>
+  <![endif]-->
+  <noscript>
+    <p>
+      This page requires JavaScript to work properly. Please enable JavaScript in your browser.   << USO DE JS >>
+    </p>
+  </noscript>
+  <app-root></app-root>
+  <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=666cb666-5d39-4bcf-a2f6-fb712d755b38">
+  </script>
+  <script type="text/javascript">
+    zESettings = {
+      webWidget: {
+        contactForm: {
+          fields: [
+            { "id": 360030231614, prefill: { '*': location.hostname.split('.')[0] } }
+          ]
+        },
+        position: {
+          horizontal: 'right',
+          vertical: 'bottom'
+        },
+        launcher: {
+          label: {
+            'pt-BR': 'Ajuda',
+            'en-US': 'Help'
+          }
+        }
+      }
+    };
+  </script>
+  <script src="https://dev.vdocipher.com/playerAssets/1.6.10/vdo.js"></script>
+  <script src="https://www.youtube.com/iframe_api"></script>
+<script src="runtime.10d6ca0463d0973dec7b.js" defer></script><script src="polyfills.a8ee73c49a9df7a976a8.js" defer></script><script src="main.dcb8a8bb6d172ce38ef4.js" defer></script></body>
+
+</html>
+
+SEGUNDO CÓDIGO: Grammar solutions 
+
+<html lang="en">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5MNN7ZS');</script>
+<!-- End Google Tag Manager -->
+					<title>Grammar  | Solutions | Oxford University Press</title>
+		<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="" />
+<meta name="keywords" content=" learn English, exercise, practice" />
+<meta name="author" content="Oxford University Press, English Language Teaching - elt.enquiry@oup.com" />
+<meta name="contact" content="elt.enquiry@oup.com" />
+<!-- removed the author from meta tags for marval tsk 474386 -->
+<link rel="canonical" href="https://elt.oup.com/student/solutions/elementary/grammar/" />
+<meta property="og:title" content="Grammar  | Solutions | Oxford University Press" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://elt.oup.com/student/solutions/elementary/grammar/" />
+<meta property="og:image" content="https://cf-aws.global.oup.com/system/img/oxford-university-press-symbol.png" />
+<meta property="og:image:width" content="300" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:alt" content="Oxford University Press" /> 
+<link href="/elt/students/css/solutions.css" rel="stylesheet" type="text/css" />
+<link href="/elt/students/css/solutions_elementary.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5MNN7ZS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="container">
+<!-- new code ends -->			
+<!--  Marval ticket 358191 change ends  -->		
+<!-- header-->
+<div id="header">
+	<div id="oup_logo"><a href="/?cc=global&selLanguage=en"><img src="/system/img/oup-logo.svg" alt="OUP ELT Home" width="240" height="56" /></a></div>
+	<div id="banner"><img src ="/elt/students/images/interface/solutions_elementary_ban.gif" alt="Oxford University Press English Language Teaching Student's Site" /></div>
+			<div id="book_logo"><a href="/student/solutions/?cc=global&selLanguage=en"><img src ="/elt/students/images/interface/solutions_elementary.gif" alt="Oxford University Press English Language Teaching Student's Site" width="185" height="66" /></a></div>
+</div>
+<div id="breadcrumb">
+    <a href="/learning_resources/?cc=global&selLanguage=en" class="breadcrumblink" id="studentlink">Students</a>
+      <span class="breadcrumbsep" id="studentsep">&gt;</span>
+      <a href="/student/solutions/?cc=global&selLanguage=en" class="breadcrumblink">Solutions</a>
+      <span class="breadcrumbsep">&gt;</span>
+      <a href="/student/solutions/elementary/?cc=global&selLanguage=en" class="breadcrumblink">Elementary</a>
+      <span class="breadcrumbsep">&gt;</span>
+      <a href="/student/solutions/elementary/grammar/?cc=global&selLanguage=en" class="breadcrumblink">Grammar</a>
+</div>
+ <!--middlematter-->
+<div id="middle_matter">
+    <!--navigation-->
+    <div id="navigation">
+      <ul>
+				 <li class="choice"><a href="/student/solutions/elementary/grammar/?cc=global&selLanguage=en" class="choicelink">Grammar</a></li>
+				 <li class="choice"><a href="/student/solutions/elementary/everydayenglish/?cc=global&selLanguage=en" class="choicelink">Everyday English</a></li>
+      </ul>
+<div id="book_image"><a href="/student/solutions/?cc=global&selLanguage=en">
+<img src="/elt/students/images/interface/solutions_elementary_jkt.gif" alt="Oxford University Press English Language Teaching Student's Site" width="109" height="137" /></a>
+</div>
+    </div>
+    <!--end navigation-->
+    <!--drop-down menu lists-->
+    <div id="menus">
+				<script type="text/javascript">
+<!-- 
+function gotoUrl(url) { if (url!= "") top.location=url}
+//-->           << USO DE JAVASCRIPT<<
+</script><form method="get" action="" class="form"><select onchange="gotoUrl(this.options[this.selectedIndex].value)" name="select"><option selected="selected" value="">Choose . . .</option><option value="/student/solutions/elementary/grammar/grammar_01_012e">Unit 1 - Exercise 1 - Present simple: affirmative and negative</option><option value="/student/solutions/elementary/grammar/grammar_01_022e">Unit 1 - Exercise 2 - Present simple: questions</option><option value="/student/solutions/elementary/grammar/grammar_10_022e">Unit 10 -  Exercise 2 - Present perfect: negative and interrogative</option><option value="/student/solutions/elementary/grammar/grammar_10_012e">Unit 10 - Exercise 1 - Present perfect: affirmative</option><option value="/student/solutions/elementary/grammar/grammar_02_012e">Unit 2 - Exercise 1 - Adverbs of frequency</option><option value="/student/solutions/elementary/grammar/grammar_02_022e">Unit 2 - Exercise 2 - can and adverbs</option><option value="/student/solutions/elementary/grammar/grammar_03_012e">Unit 3 - Exercise 1- there is/there are; some/any with plural nouns</option><option value="/student/solutions/elementary/grammar/grammar_03_022e">Unit 3 - Exercise 2 - have to</option><option value="/student/solutions/elementary/grammar/grammar_04_012e">Unit 4 - Exercise 1 - Present continuous</option><option value="/student/solutions/elementary/grammar/grammar_04_022e">Unit 4 - Exercise 2 - Present simple and continuous</option><option value="/student/solutions/elementary/grammar/grammar_05_012e">Unit 5 - Exercise 1 - Quantity</option><option value="/student/solutions/elementary/grammar/grammar_05_022e">Unit 5 - Exercise 2 - should / shouldn't</option><option value="/student/solutions/elementary/grammar/grammar_06_012e">Unit 6 - Exercise 1 - Past simple: be and can</option><option value="/student/solutions/elementary/grammar/grammar_06_022e">Unit 6 - Exercise 2 - Past simple affirmative: regular verbs</option><option value="/student/solutions/elementary/grammar/grammar_07_012e">Unit 7 - Exercise 1 - Past simple affirmative: irregular verbs</option><option value="/student/solutions/elementary/grammar/grammar_07_022e">Unit 7 - Exercise 2 - Past simple negative and interrogative</option><option value="/student/solutions/elementary/grammar/grammar_08_012e">Unit 8 - Exercise 1 - Comparative adjectives</option><option value="/student/solutions/elementary/grammar/grammar_08_022e">Unit 8 - Exercise 2 - Superlative adjectives</option><option value="/student/solutions/elementary/grammar/grammar_09_012e">Unit 9 - Exercise 1 - going to</option><option value="/student/solutions/elementary/grammar/grammar_09_022e">Unit 9 - Exercise 2 - will</option></select></form>
+    </div>
+    <!--end drop-down lists-->
+    <div id="content">
+    	<div id="exercise">
+			<h1>Grammar</h1>
+<p class="rubric">Select an exercise below.</p>
+			<div id="children">
+			 	<ul>
+					<li><a href="/student/solutions/elementary/grammar/grammar_01_012e?cc=global&selLanguage=en">Unit 1 - Exercise 1 - Present simple: affirmative and negative</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_01_022e?cc=global&selLanguage=en">Unit 1 - Exercise 2 - Present simple: questions</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_02_012e?cc=global&selLanguage=en">Unit 2 - Exercise 1 - Adverbs of frequency</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_02_022e?cc=global&selLanguage=en">Unit 2 - Exercise 2 - can and adverbs</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_03_012e?cc=global&selLanguage=en">Unit 3 - Exercise 1- there is/there are; some/any with plural nouns</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_03_022e?cc=global&selLanguage=en">Unit 3 - Exercise 2 - have to</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_04_012e?cc=global&selLanguage=en">Unit 4 - Exercise 1 - Present continuous</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_04_022e?cc=global&selLanguage=en">Unit 4 - Exercise 2 - Present simple and continuous</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_05_012e?cc=global&selLanguage=en">Unit 5 - Exercise 1 - Quantity</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_05_022e?cc=global&selLanguage=en">Unit 5 - Exercise 2 - should / shouldn't</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_06_012e?cc=global&selLanguage=en">Unit 6 - Exercise 1 - Past simple: be and can</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_06_022e?cc=global&selLanguage=en">Unit 6 - Exercise 2 - Past simple affirmative: regular verbs</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_07_012e?cc=global&selLanguage=en">Unit 7 - Exercise 1 - Past simple affirmative: irregular verbs</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_07_022e?cc=global&selLanguage=en">Unit 7 - Exercise 2 - Past simple negative and interrogative</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_08_012e?cc=global&selLanguage=en">Unit 8 - Exercise 1 - Comparative adjectives</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_08_022e?cc=global&selLanguage=en">Unit 8 - Exercise 2 - Superlative adjectives</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_09_012e?cc=global&selLanguage=en">Unit 9 - Exercise 1 - going to</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_09_022e?cc=global&selLanguage=en">Unit 9 - Exercise 2 - will</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_10_012e?cc=global&selLanguage=en">Unit 10 - Exercise 1 - Present perfect: affirmative</a></li>
+					<li><a href="/student/solutions/elementary/grammar/grammar_10_022e?cc=global&selLanguage=en">Unit 10 -  Exercise 2 - Present perfect: negative and interrogative</a></li>
+				</ul>
+				<!-- end children-->
+			</div>
+			<!-- Code change end -->
+			<!-- end exercise-->
+		</div>
+		<!-- end content-->
+	</div>
+ 	<div id="bottom">
+ 	</div>
+<!-- middle_matter end -->
+</div>
+<!--container end-->
+</div>
+<!--just for mock up - fppter from main site-->
+<div id="footer">
+    <div id="footerinner">
+      	<p class="fl-left">Copyright &copy; Oxford University Press, 2022. All Rights Reserved.</p>
+      <ul class="fl-right">
+		<li><a href="https://global.oup.com/privacy?cc=global&selLanguage=en">Privacy Policy</a> |</li>
+		<li><a href="/termsandconditions-legal-notice?cc=global&selLanguage=en">Legal Notice</a> |</li>
+		<li><a href="https://global.oup.com/cookiepolicy/?cc=global&selLanguage=en">Cookie Policy</a> |</li>
+        	<li><a href="/learning_resources/?cc=global&selLanguage=en">Learning Resources Bank</a></li>
+        	<li>
+		        |
+        		<a href="/student/solutions/?mode=hub&cc=global&selLanguage=en">Solutions</a>
+        	</li>
+      </ul>
+     </div>
+</div>
+</body>
+</html>
+	
+ 
