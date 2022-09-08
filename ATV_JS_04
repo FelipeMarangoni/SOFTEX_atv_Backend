@@ -1,0 +1,9 @@
+
+criacional:
+objetivo é criar apenas uma instância de uma classe e fornecer apenas um ponto global de acesso àquele objeto.
+Um exemplo comumente usado dessa classe em Java é o calendário
+  contem:
+  Uma variável estática privada, que contém a única instância da classe.
+  Um construtor privado, de modo a não ser possível instanciá-la de qualquer outro lugar.
+  Um método estático público, para retornar a instância única da classe.
+
