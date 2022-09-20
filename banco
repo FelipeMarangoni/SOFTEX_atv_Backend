@@ -1,0 +1,21 @@
+Var BancoFM= new Object
+bancoFM.tipoConta= "corrente", "poupança"
+bancoFM.Agencia= "num"
+bancoFM.saldo= saldo
+bancoFM.tipo= tipo
+
+function.buscarsaldo() {
+    console.log(bancoFM.saldo)
+}
+function.deposito (){
+    bancoFM.saldo(saldo+deposito)
+}
+function.saquesaldo (){
+    bancoFM.saquesaldo
+}
+BuscarSaldo()
+Deposito(100)
+BuscarSaldo()
+SaqueSaldo(10)
+BuscarSaldo
+console.log(bancoFM.conta)
