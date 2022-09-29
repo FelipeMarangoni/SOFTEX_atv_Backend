@@ -1,0 +1,17 @@
+const colaborador_rs = {
+    nome: 'Arnaldo',
+    idade: 23,
+    nacionalidade: 'Jamaicano',
+    Comissoes: [100, 2200, 2000, 150]
+}    
+function checkStatus() {
+    for(const status in colaborador_rs) {
+        console.log(`${status}: ${colaborador_rs[status]}`)
+    }
+    console.log()
+}
+
+function checkcomissoes() {
+    console.log('Comissao: ')
+    for (const check of cliente.comissao) {
+        console.log(check)
